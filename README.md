@@ -15,7 +15,7 @@
 ## 📊 Information Architecture
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/89058df7-f269-43eb-a365-3e37afec69dd" alt="Information Architecture" width="80%" />
+  <img src="https://github.com/user-attachments/assets/2d339705-2b3c-4b83-b5b4-3b5712328f1b" alt="Information Architecture" width="80%" />
 </p>
 
 ---

@@ -4,7 +4,29 @@
 * * *
 
 ### 🔷 Information Architecture 🔷
-![image](https://github.com/user-attachments/assets/89058df7-f269-43eb-a365-3e37afec69dd)
+# Project Structure
+
+- Index (IndexScreen.js)
+  - Signup/Login
+    - Signup (Signup.js)
+    - Login (Login.js)
+    - Password Resend (PasswordResend.js)
+  - Dashboard (Dashboard.js)
+    - Perfection (Dashboard.js)
+    - Ranking (Ranking.js)
+    - Interview Log-semi (Dashboard.js)
+    - Recruitment (Recruitment.js)
+    - Advertisement (Ad.js)
+  - Logs (Logs.js)
+    - Interview Log (Logs.js)
+  - User Settings (Settings.js)
+    - modify (Settings.js)
+    - delete (Settings.js)
+  - Interview
+    - SetInterview (SetInterview.js)
+    - Interview (Interview.js)
+- menu.js
+- Footer.js
 * * *
 
 ### 🔷 Development Tools 🔷

@@ -22,10 +22,20 @@
 
 ## 🛠️ Development Tools
 
-| Frontend         | Backend | Database | Deployment |
-|:----------------:|:-------:|:--------:|:----------:|
-| React Native     | FastAPI | MongoDB  | CloudType  |
-| JavaScript       | Python  |          | OpenAI API |
+### 🎨 Frontend
+- React Native
+- JavaScript
+
+### 🖥️ Backend
+- FastAPI
+- Python
+
+### 🗄️ Database
+- MongoDB
+
+### 🚀 Deployment
+- CloudType
+- OpenAI API
 
 ---
 

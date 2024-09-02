@@ -10,7 +10,23 @@
 
 </div>
 
----
+
+**Interview Go** is an AI-powered mock interview app designed to help job seekers, career changers, and students prepare for real interviews. It offers personalized interview practice experiences based on various job scenarios and utilizes voice recognition and AI technology to provide real-time feedback and coaching, helping users improve their interview skills.
+
+## 🌟 Main Features
+- **Tailored Questions**:
+Provides a variety of questions tailored to specific job roles and situations, supporting more relevant interview preparation for the user. Additionally, based on the user's responses, the AI generates follow-up questions related to the answers, offering a more in-depth and realistic interview experience.
+
+- **Real-Time Feedback**:
+Provides immediate feedback after the interview, highlighting the user's strengths and areas needing improvement.
+
+- **Scoring System**:
+Evaluates user responses by assigning scores and suggests areas for improvement, helping users achieve better performance.
+
+
+- **Custom Feedback**:
+Leverages AI to analyze responses and provides specific, actionable advice to enhance user performance in future interviews.
+
 
 ## 📊 Information Architecture
 

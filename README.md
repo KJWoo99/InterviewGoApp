@@ -34,7 +34,7 @@ Leverages AI to analyze responses and provides specific, actionable advice to en
   <img src="https://github.com/user-attachments/assets/2d339705-2b3c-4b83-b5b4-3b5712328f1b" alt="Information Architecture" width="80%" />
 </p>
 
----
+
 
 ## 🛠️ Development Tools
 

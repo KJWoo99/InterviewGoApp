@@ -36,7 +36,7 @@ Leverages AI to analyze responses and provides specific, actionable advice to en
 
 
 
-## 🛠️ Development Tools
+## 🛠️ Technology Stack
 
 ### 🎨 Frontend
 - React Native

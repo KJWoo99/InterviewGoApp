@@ -41,16 +41,18 @@
 
 ## 🌟 Key Features
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/4b66348a-8bc7-4553-a861-bf77852bfd81" width="200" /><br><b>AI-powered Interviews</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/9963c407-a65e-492c-85bc-507ec3c5649d" width="200" /><br><b>Personalized Feedback</b></td>
+    <td style="width: 50%; text-align: center;"><img src="https://github.com/user-attachments/assets/4b66348a-8bc7-4553-a861-bf77852bfd81" style="width: 80%;" /><br><b>AI-powered Interviews</b></td>
+    <td style="width: 50%; text-align: center;"><img src="https://github.com/user-attachments/assets/9963c407-a65e-492c-85bc-507ec3c5649d" style="width: 80%;" /><br><b>Personalized Feedback</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/4775a1cd-4a31-4430-8b4d-9f16d98dfb39" width="200" /><br><b>Industry-specific Questions</b></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/3b13c88c-8440-451f-929b-d44f01b3d659" width="200" /><br><b>Progress Tracking</b></td>
+    <td style="width: 50%; text-align: center;"><img src="https://github.com/user-attachments/assets/4775a1cd-4a31-4430-8b4d-9f16d98dfb39" style="width: 80%;" /><br><b>Industry-specific Questions</b></td>
+    <td style="width: 50%; text-align: center;"><img src="https://github.com/user-attachments/assets/3b13c88c-8440-451f-929b-d44f01b3d659" style="width: 80%;" /><br><b>Progress Tracking</b></td>
   </tr>
 </table>
+
+
 
 ---
 
